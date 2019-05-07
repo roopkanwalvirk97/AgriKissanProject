@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MyFragmentsActivity">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_weight="1"
+            android:background="@color/colorAccent"
+            android:id="@+id/FirstFrame">
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="215dp"
+            android:layout_weight="1"
+            android:background="@color/colorAccent"
+            android:id="@+id/SecondFrame">
+
+        </FrameLayout>
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="198dp"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:id="@+id/ThirdFrame">
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="215dp"
+            android:layout_weight="1"
+            android:background="@color/colorAccent"
+            android:id="@+id/FourthFrame">
+
+
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="215dp"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:id="@+id/FifthFrame">
+
+
+        </FrameLayout>
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_weight="1"
+            android:background="@color/colorAccent"
+            android:id="@+id/SixthFrame">
+
+
+        </FrameLayout>
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="215dp"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:id="@+id/SeventhFrame">
+
+
+        </FrameLayout>
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="215dp"
+            android:layout_weight="1"
+            android:background="@color/colorAccent"
+            android:id="@+id/EigthFrame">
+
+
+        </FrameLayout>
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="215dp"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:id="@+id/NinthFrame">
+
+
+        </FrameLayout>
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="235dp"
+            android:layout_weight="1"
+            android:background="@color/colorAccent"
+            android:id="@+id/TenthFrame">
+
+        </FrameLayout>
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

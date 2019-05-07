@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.roop.AgriKissan">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ui.WebViewBuyersActivity"></activity>
+        <activity android:name=".ui.AllBuyersActivity" />
+        <activity android:name=".ui.BuyersRecyclerAdapter" />
+        <activity android:name=".ui.BuyersAdapter" />
+        <activity android:name=".ui.EigthFragment" />
+        <activity android:name=".ui.TenthFragment" />
+        <activity android:name=".ui.NinthFragment" />
+        <activity android:name=".ui.EightFragment" />
+        <activity android:name=".ui.SeventhFragment" />
+        <activity android:name=".ui.SixthFragment" />
+        <activity android:name=".ui.FifthFragment" />
+        <activity android:name=".ui.FourthFragment" />
+        <activity android:name=".ui.ThirdFragment" />
+        <activity android:name=".ui.SecondFragment" />
+        <activity android:name=".ui.FirstFragment" />
+        <activity android:name=".ui.WebViewSellersActivity" />
+        <activity android:name=".ui.SellersRecyclerAdapter" />
+        <activity android:name=".ui.SellersAdapter" />
+        <activity android:name=".ui.AllSellersActivity" />
+        <activity android:name=".ui.SellersActivity" />
+        <activity android:name=".ui.MyFragmentsActivity" />
+        <activity android:name=".ui.WebViewActivity" />
+        <activity android:name=".ui.GurcharanActivity" />
+        <activity android:name=".ui.DaljeetActivity" />
+        <activity android:name=".ui.NishanActivity" />
+        <activity android:name=".ui.RajmohanActivity" />
+        <activity android:name=".ui.MittaliActivity" />
+        <activity android:name=".ui.HindpalActivity" />
+        <activity android:name=".ui.PavitarActivity" />
+        <activity android:name=".ui.RamandeepActivity" />
+        <activity android:name=".ui.NavdeepActivity" />
+        <activity android:name=".ui.HarvinderActivity" />
+        <activity android:name=".ui.GurpreetActivity" />
+        <activity android:name=".ui.ExpertsActivity" />
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.NavroopActivity" />
+        <activity android:name=".ExpertsActivity" />
+        <activity android:name=".MainActivity">
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".ui.HarvinderActivity">
+
+
+        <TextView
+            android:id="@+id/textViewProfile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Profile"
+            android:background="@color/colorYellow"
+            android:textSize="20dp"
+            android:textColor="@color/colorBlack"
+            android:padding="10dp"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:id="@+id/textViewinfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Profile3"
+            android:textColor="@color/colorBlack"
+            android:padding="10dp"/>
+
+        <TextView
+            android:id="@+id/textViewAwards"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Awards and Recognition"
+            android:background="@color/colorYellow"
+            android:textSize="20dp"
+            android:textColor="@color/colorBlack"
+            android:padding="10dp"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/textViewinfo2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/AwardsandRecognition3"
+            android:textColor="@color/colorBlack"
+            android:padding="10dp"/>
+
+        <TextView
+            android:id="@+id/textViewExpertise"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Expertise"
+            android:background="@color/colorYellow"
+            android:textSize="20dp"
+            android:textColor="@color/colorBlack"
+            android:padding="10dp"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/textViewInfo3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Expertise3"
+            android:textColor="@color/colorBlack"
+            android:padding="10dp"/>
+
+
+        <TextView
+            android:id="@+id/textViewQualification"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Qualification"
+            android:background="@color/colorYellow"
+            android:textSize="20dp"
+            android:textColor="@color/colorBlack"
+            android:padding="10dp"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/textViewinfo4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Qualification3"
+            android:textColor="@color/colorBlack"
+            android:padding="10dp"/>
+
+
+    </LinearLayout>
+</ScrollView>
