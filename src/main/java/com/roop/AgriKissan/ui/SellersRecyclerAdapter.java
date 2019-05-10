@@ -47,15 +47,20 @@ public class SellersRecyclerAdapter extends RecyclerView.Adapter<SellersRecycler
         View view = LayoutInflater.from(context).inflate(resource,parent,false);
         ViewHolder holder = new ViewHolder(view);
 
+
+
         return holder;
     }
+
     @Override
     public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
+
 
         Sellers sellers = objects.get(position);
 
         // Extracting Data from Sellers Object and Setting the data on list_item
         holder.imageView.setBackgroundResource(sellers.image);
+        holder.txtCropName.setText(sellers.cropname);
         holder.txtName.setText(sellers.name);
         holder.txtQuantity.setText(sellers.quantity);
         holder.txtContact.setText(sellers.contact);
@@ -75,8 +80,10 @@ public class SellersRecyclerAdapter extends RecyclerView.Adapter<SellersRecycler
 //}
     class ViewHolder extends RecyclerView.ViewHolder{
 
+
         // Attributes of ViewHolder
         ImageView imageView;
+        TextView txtCropName;
         TextView txtName;
         TextView txtQuantity;
         TextView txtContact;
@@ -86,6 +93,7 @@ public class SellersRecyclerAdapter extends RecyclerView.Adapter<SellersRecycler
             super(itemView);
 
             imageView = itemView.findViewById(R.id.imageView);
+            txtCropName = itemView.findViewById(R.id.textViewCropName);
             txtName = itemView.findViewById(R.id.textViewName);
             txtQuantity = itemView.findViewById(R.id.textViewQuantity);
             txtContact = itemView.findViewById(R.id.textViewContact);

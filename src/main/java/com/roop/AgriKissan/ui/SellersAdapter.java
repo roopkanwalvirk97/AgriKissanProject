@@ -33,7 +33,9 @@ public class SellersAdapter extends ArrayAdapter<Sellers>{
         // view is a ref var which is pointing to list_item
         View view = LayoutInflater.from(context).inflate(resource,parent,false);
 
+
         ImageView imageView = view.findViewById(R.id.imageView);
+        TextView txtCropName = view.findViewById(R.id.textViewCropName);
         TextView txtName = view.findViewById(R.id.textViewName);
         TextView txtQuantity = view.findViewById(R.id.textViewQuantity);
         TextView txtContact= view.findViewById(R.id.textViewContact);
@@ -43,6 +45,7 @@ public class SellersAdapter extends ArrayAdapter<Sellers>{
 
         // Extracting Data from News Object and Setting the data on list_item
         imageView.setBackgroundResource(sellers.image);
+        txtCropName.setText(sellers.cropname);
         txtName.setText(sellers.name);
         txtQuantity.setText(sellers.quantity);
         txtContact.setText(sellers.contact);

@@ -10,13 +10,12 @@ import com.roop.AgriKissan.R;
 
 
 public class ExpertsActivity extends AppCompatActivity {
-    ImageView imgnavroop, imgurpreet, imgharvinder, imgnavdeep, imgramandeep, imgpavitar, imghindpal, imgmittali,imgrajmohan, imgnishan, imgdaljeet, imgurcharan;
+    ImageView imgnavroop, imgurpreet, imgharvinder, imgnavdeep, imgramandeep, imgpavitar, imghindpal, imgmittali, imgrajmohan, imgnishan, imgdaljeet, imgurcharan;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_experts);
-
 
         imgnavroop = findViewById(R.id.navroop);
         imgnavroop.setOnClickListener(new View.OnClickListener() {
@@ -24,9 +23,9 @@ public class ExpertsActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent = new Intent(getApplicationContext(), NavroopActivity.class);
                 startActivity(intent);
+
             }
         });
-
         imgurpreet = findViewById(R.id.gurpreet);
         imgurpreet.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -85,7 +84,7 @@ public class ExpertsActivity extends AppCompatActivity {
             }
         });
 
-        imgrajmohan= findViewById(R.id.rajmohan);
+        imgrajmohan = findViewById(R.id.rajmohan);
         imgrajmohan.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -93,7 +92,7 @@ public class ExpertsActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-        imgnishan= findViewById(R.id.nishan);
+        imgnishan = findViewById(R.id.nishan);
         imgnishan.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -119,6 +118,8 @@ public class ExpertsActivity extends AppCompatActivity {
             }
         });
 
-    }
 
+    }
 }
+
+

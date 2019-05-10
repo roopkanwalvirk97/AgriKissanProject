@@ -53,15 +53,15 @@ public class AllBuyersActivity extends AppCompatActivity implements AdapterView.
 //        Sellers sellers9 = new Sellers(R.drawable.asparagus, "Tester","Quantity : 12 Tonnes(s)", "Contact : 5576505656","Price : \\u20B9 10036 - \\u20B9 36086");
 //        Sellers sellers10 = new Sellers(R.drawable.kinnow, "R Syadev", "Quantity : 100 Tonnes(s)", "Contact : 9555641039","Price : \\u20B9 1200 - \\u20B9 1300");
 
-        Buyers buyers2 = new Buyers(R.drawable.mustard, "Mustard", "Brahm", "Quantity : 500 Tonnes(s)","Grade : Abc","Contact : 9805310006", "Price : ₹ 250 Per Kilogram");
-        Buyers buyers3 = new Buyers(R.drawable.mustard, "Mustard", "Harinder Singh Gill", "Quantity : 800 Tonnes(s)","Grade : good","Contact : 9770200100", "Price : ₹ 600 Per Quintal");
-        Buyers buyers4 = new Buyers(R.drawable.mustard, "Mustard", "Harinder Singh Gill", "Quantity : 700 Tonnes(s)","Grade : good1","Contact : 9781300100", "Price : ₹ 900 Per Quintal");
-        Buyers buyers5 = new Buyers(R.drawable.mustard, "Mustard", "Raj", "Quantity : 100 Tonnes(s)","Grade : Abc","Contact : 9990951167", "Price : ₹ 20 Per Kilogram");
-        Buyers buyers6 = new Buyers(R.drawable.mustard, "Mustard", "Manoj Singh Rawal", "Quantity : 50 Tonnes(s)","Grade : B","Contact : 9990951167", "Price : ₹ 15 Per Kilogram");
-        Buyers buyers7 = new Buyers(R.drawable.mustard, "Mustard", "Manpreet Singh", "Quantity : 250 Tonnes(s)","Grade : a","Contact : 6284833282", "Price : ₹ 2100 Per Quintal");
-        Buyers buyers8 = new Buyers(R.drawable.mustard, "Mustard", "Gurkirat Singh", "Quantity : 15 Tonnes(s)","Grade : 3086 a","Contact : 7837661113", "Price : ₹ 15 Per Quintal");
-        Buyers buyers9 = new Buyers(R.drawable.mustard, "Mustard", "Kulveer Singh", "Quantity : 1 Tonnes(s)","Grade :a","Contact : 9870071579", "Price : ₹ 4000 Per Quintal");
-        Buyers buyers10 = new Buyers(R.drawable.mustard, "Mustard", "Karan Sihag", "Quantity : 1500 Tonnes(s)","Grade : First","Contact : 9430808043", "Price : ₹ 1200 Per Quintal");
+        Buyers buyers2 = new Buyers(R.drawable.ginger1, "Ginger", "Brahm", "Quantity : 500 Tonnes(s)","Grade : Abc","Contact : 9805310006", "Price : ₹ 250 Per Kilogram");
+        Buyers buyers3 = new Buyers(R.drawable.potato1, "Potato", "Harinder Singh Gill", "Quantity : 800 Tonnes(s)","Grade : good","Contact : 9770200100", "Price : ₹ 600 Per Quintal");
+        Buyers buyers4 = new Buyers(R.drawable.potato1, "Potato", "Harinder Singh Gill", "Quantity : 700 Tonnes(s)","Grade : good1","Contact : 9781300100", "Price : ₹ 900 Per Quintal");
+        Buyers buyers5 = new Buyers(R.drawable.asparagus, "Asparagus(musli)", "Raj", "Quantity : 100 Tonnes(s)","Grade : Abc","Contact : 9990951167", "Price : ₹ 20 Per Kilogram");
+        Buyers buyers6 = new Buyers(R.drawable.aonla, "Aonla", "Manoj Singh Rawal", "Quantity : 50 Tonnes(s)","Grade : B","Contact : 9990951167", "Price : ₹ 15 Per Kilogram");
+        Buyers buyers7 = new Buyers(R.drawable.wheat, "Wheat", "Manpreet Singh", "Quantity : 250 Tonnes(s)","Grade : a","Contact : 6284833282", "Price : ₹ 2100 Per Quintal");
+        Buyers buyers8 = new Buyers(R.drawable.wheat, "Wheat", "Gurkirat Singh", "Quantity : 15 Tonnes(s)","Grade : 3086 a","Contact : 7837661113", "Price : ₹ 15 Per Quintal");
+        Buyers buyers9 = new Buyers(R.drawable.sugarcane1, "Sugarcane", "Kulveer Singh", "Quantity : 1 Tonnes(s)","Grade :a","Contact : 9870071579", "Price : ₹ 4000 Per Quintal");
+        Buyers buyers10 = new Buyers(R.drawable.kinnow, "Kinnow", "Karan Sihag", "Quantity : 1500 Tonnes(s)","Grade : First","Contact : 9430808043", "Price : ₹ 1200 Per Quintal");
 
 
 

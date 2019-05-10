@@ -50,16 +50,16 @@ public class AllSellersActivity extends AppCompatActivity implements AdapterView
         //review FCM
         //REGISTER ON CRON JOB
 
-        Sellers sellers1 = new Sellers(R.drawable.mustard, "Raj", "Quantity : 100 Tonnes(s)", "Contact : 9990951167","Price :  ₹ 10 -  ₹ 15 Per Kilogram");
-        Sellers sellers2 = new Sellers(R.drawable.aonla, "Raj", " Quantity : 100 Tonnes(s)", "Contact : 9990951167","Price :  ₹ 250");
-        Sellers sellers3 = new Sellers(R.drawable.ashwagandha, "Manoj Singh Rawal", "Quantity : 95 Tonnes(s)", "Contact : 9990951167","Price :  ₹ 15 -  ₹ 20");
-        Sellers sellers4 = new Sellers(R.drawable.cabbage1, "Gurpreet Singh","Quantity : 300 Tonnes(s)", "Contact : 9914122166","Price :  ₹ 200 - ₹ 400" );
-        Sellers sellers5 = new Sellers(R.drawable.wheat, "Gurmandeep Singh", "10 Tonnes(s)", "Contact : 7837138078","Price :  ₹ 2100 -  ₹ 2200");
-        Sellers sellers6 = new Sellers(R.drawable.kinnow, "Bhuwnesh", "Quantity : 2000 Tonnes(s)", "Contact : 8890937065","Price :  ₹ 20 - ₹ 25");
-        Sellers sellers7 = new Sellers(R.drawable.cauliflower1, "Parwinder Singh", "Quantity : 20 Tonnes(s)", "Contact : 9779250811","Price :  ₹ 20 -  ₹ 600");
-        Sellers sellers8 = new Sellers(R.drawable.paddy1, "Arshdeep", "Quantity : 50 Tonnes(s)", "Contact : 9781802038","Price :  ₹ 2900 -  ₹ 3000");
-        Sellers sellers9 = new Sellers(R.drawable.asparagus, "Tester","Quantity : 12 Tonnes(s)", "Contact : 5576505656","Price :  ₹ 10036 -  ₹ 36086");
-        Sellers sellers10 = new Sellers(R.drawable.kinnow, "R Syadev", "Quantity : 100 Tonnes(s)", "Contact : 9555641039","Price :  ₹ 1200 -  ₹ 1300");
+        Sellers sellers1 = new Sellers(R.drawable.mustard, "Asparagus(musli)", "Raj","Quantity : 100 Tonnes(s)", "Contact : 9990951167","Price :  ₹ 10 -  ₹ 15 Per Kilogram");
+        Sellers sellers2 = new Sellers(R.drawable.aonla,"Aonla" ,"Raj", " Quantity : 100 Tonnes(s)", "Contact : 9990951167","Price :  ₹ 250");
+        Sellers sellers3 = new Sellers(R.drawable.ashwagandha,"Ashwagandha", "Manoj Singh Rawal", "Quantity : 95 Tonnes(s)", "Contact : 9990951167","Price :  ₹ 15 -  ₹ 20");
+        Sellers sellers4 = new Sellers(R.drawable.cabbage1, "Cabbage","Gurpreet Singh","Quantity : 300 Tonnes(s)", "Contact : 9914122166","Price :  ₹ 200 - ₹ 400" );
+        Sellers sellers5 = new Sellers(R.drawable.wheat,"Wheat", "Gurmandeep Singh", "10 Tonnes(s)", "Contact : 7837138078","Price :  ₹ 2100 -  ₹ 2200");
+        Sellers sellers6 = new Sellers(R.drawable.kinnow, "Kinnow","Bhuwnesh", "Quantity : 2000 Tonnes(s)", "Contact : 8890937065","Price :  ₹ 20 - ₹ 25");
+        Sellers sellers7 = new Sellers(R.drawable.cauliflower1, "Cauliflower","Parwinder Singh", "Quantity : 20 Tonnes(s)", "Contact : 9779250811","Price :  ₹ 20 -  ₹ 600");
+        Sellers sellers8 = new Sellers(R.drawable.paddy1, " Paddy","Arshdeep", "Quantity : 50 Tonnes(s)", "Contact : 9781802038","Price :  ₹ 2900 -  ₹ 3000");
+        Sellers sellers9 = new Sellers(R.drawable.asparagus, "Asparagus(musli)","Tester","Quantity : 12 Tonnes(s)", "Contact : 5576505656","Price :  ₹ 10036 -  ₹ 36086");
+        Sellers sellers10 = new Sellers(R.drawable.kinnow,"Kinnow", "R Syadev", "Quantity : 100 Tonnes(s)", "Contact : 9555641039","Price :  ₹ 1200 -  ₹ 1300");
 
         sellersList.add(sellers1); //0
         sellersList.add(sellers2);
