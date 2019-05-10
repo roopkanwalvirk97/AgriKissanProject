@@ -6,7 +6,7 @@
     android:elevation="5dp"
     app:cardCornerRadius="6dp"
     android:layout_width="match_parent"
-    android:layout_height="340dp"
+    android:layout_height="360dp"
     android:orientation="vertical"
         android:padding="20dp">
 
@@ -25,6 +25,26 @@
             android:background="@color/colorAccent"
             />
 
+    <TextView
+        android:id="@+id/textViewCropName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="10dp"
+        android:text="CropName"
+        android:textSize="18dp"
+        android:gravity="center"
+        android:textColor="@color/colorBlack"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/imageView"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.016"/>
+
+
 
     <TextView
             android:id="@+id/textViewName"
@@ -36,7 +56,7 @@
             android:layout_marginTop="10dp"
             android:text="Name"
             android:textSize="18dp"
-            android:textColor="@color/colorBlack"
+            android:textColor="@color/colorPrimary"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"

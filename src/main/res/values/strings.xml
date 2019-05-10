@@ -2,65 +2,271 @@
     <string name="app_name">Agri Kissan Project</string>
     //navroop
     <string name="Profile1">Navroop Singh is a progressive farmer with extensive years of experience in the field of dairy farming. Particularly engaged in rearing the indigenous breed- Sahiwal naturally from last 8 years he has great skills and expertise in taking good production of milk from dairy farming. Currently, the number of cows in his dairy farm exceeds 100 and most of them are of Sahiwal breed which is considered to be the best breed in India. Adept in utilizing the natural resources and waste product of cows productively in the form of Jeev Amrit, Vermicompost, and Neem spray. With a previous track record of strong marketing skills, presently he is running his own milk brand in Rajasthan. Aims towards making people aware about best natural dairy farming tips and practices.</string>
+    <string name="Email1">navroopsingh58rb@gmail.com</string>
+    <string name="Contact1">9988996543</string>
     <string name="AwardsandRecognition1">---</string>
     <string name="Expertise1">Dairy Farming , Organic Fertilizers , Organic Farming , Soap Making</string>
     <string name="Qualification1">Engineer</string>
 
     //Gurpreet
     <string name="Profile2">Gurpreet Singh Shergill is working as a professional floriculturist in the farming field from past 20 years. Passion for cultivating flowers can be traced in his strong demonstrated history of floriculture where he has cultivated variety of horticulture crops. With the desire to pursue his lifetime career in floriculture he has developed his own brand- Shergill Farm Fresh which is famous in Punjab for its Rose Sharbat, Aloe Vera Juice and Amla Juice. Utilize his innovative skills in managing the natural resources and in developing machines to ease the farm work. One of his greatest invention is Gladiolus Bulb Grading Machine. Along with floriculture he is also involved in dairy farming, conventional agriculture, and vermin-culture practices. With his strong experience and expertise, he look towards upgrading the agriculture society by helping the farmers.</string>
+    <string name="Email2">shergill_farms@yahoo.com</string>
+    <string name="Contact2">9876123456</string>
     <string name="AwardsandRecognition2">Received Punjab Chief Minister Award by PAU, Ludhiana in 2011. Received Jagjivan Ram Innovative Farmer Award by ICAR, New Delhi in 2012. •	Received N.G. Ranga Farmer Award by ICAR, New Delhi in 2014. •	Received Innovative Farmer Award by IARI, New Delhi in 2015.</string>
     <string name="Expertise2">Floriculture, Fish Farming, Rose and Amla Juice</string>
     <string name="Qualification2">Diploma in Mechanical Engineering</string>
     //Harvinder
     <string name="Profile3">Harvinder is a Graduate in B.Sc. agriculture honors from Guru Kashi University. He has been actively involved in agriculture from childhood and helped his father and brother, where he gained good knowledge about traditional agriculture practices.. He has also worked with a private company and learned about organic farming, vermin compost and other organic farming practices. At the young age of 17 years he was nominated by the Indian Government to visit Japan to learn about the agricultural practices and lifestyle followed in Japan. Harvinder also spent a short span of his career working as an advisor with IFFCO (KCC) and is now associated with ApniKheti.</string>
+    <string name="Email3">harvinder.apnikheti@gmail.com</string>
+    <string name="Contact3">8967344400</string>
     <string name="AwardsandRecognition3"> --- </string>
     <string name="Expertise3">Pest control and disease treatment Organic fertilizer Irrigation Crops and horticulture</string>
     <string name="Qualification3">B.Sc. Agriculture (Hons)</string>
     //Navdeep
     <string name="Profile4">Navdeep Singh Gill is among those knowledgeable farmers who have supported sustainable agriculture practices since he started farming. With his 30 years of experience in the field of farming he aims to look towards implementing eco-friendly farming technologies and utilizing natural resources cautiously to make earth a better place. Practicing natural farming from last 10 years, he has demonstrated a strong history of cultivating Cereals, Legumes, Oilseeds and Horticulture crops with great expertise. With his farming background and entrepreneurship quality, he is running his own brand – Thar Naturals, to sell his naturally harvested crops. Currently his main goal is to contribute his knowledge accumulated throughout his farming years to the farmer society and help them raise globally. For his tremendous contribution towards natural farming he is awarded with Krishak Samman Puraskar in 2016.</string>
+    <string name="Email4">gillnavdeeps045@gmail.com</string>
+    <string name="Contact4">9463782011</string>
     <string name="AwardsandRecognition4"> Receive Krishak Samman Puraskar, 2016 .Till now organized three Organic Prashikshan Seminar to help the farmers.</string>
     <string name="Expertise4">Organic Farming, Horticulture, Dairy Farming</string>
     <string name="Qualification4">B.com</string>
     //Ramandeep
     <string name="Profile5">Dr. Ramandeep Singh, Professor of Business Management, Punjab Agriculture University and his team are instrumental in promoting the concepts of Progressive Farming and Agri Business in Punjab through digital marketing and social media. Dr. Ramandeep Singh has been able to motivate farmers to pursue the challenging path of agri-preneurship. He and his team have guided the farmers to develop new products and concepts that have greater acceptability amongst the consumers, and in the process helped them to supplement their incomes and also forge linkages between the farmers, the agriculture supply chain and the consumers. These initiatives will contribute to the well being of the farming community and also enable them to adopt best global practices for entering the global markets.</string>
+    <string name="Email5">ramandeep@pau.edu</string>
+    <string name="Contact5">8834962100</string>
     <string name="AwardsandRecognition5">---</string>
     <string name="Expertise5">Marketing Management, Research Interests, Agri-business Management, Agri-marketing , Entrepreneurship Development</string>
     <string name="Qualification5">B.Sc.(Forestry), Punjab Agricultural University, Ludhiana (1986-91); MBA, Punjabi University, Patiala (1991-93); Ph.D.(Business Management); Guru Nanak Dev University, Amritsar, (2002-05)</string>
     //shilpa
     <string name="Profile6">Working as web content manager in ApniKheti. Me and my team, access and assimilate crop advisory content from trusted sources then create advisories through collected information. Along with content preparation, I am interested in to assist farmer on a number of areas, including cultivation, pest and disease management and harvesting. Agriculture is back bone of India and I want to work for well-being of Farmer.</string>
+    <string name="Email6">pavitarsinghdhummi@gmail.com</string>
+    <string name="Contact6">7666894431</string>
     <string name="AwardsandRecognition6">---</string>
     <string name="Expertise6">Pest and Disease Management, Cultivation, Fertilization, Harvesting</string>
     <string name="Qualification6">Master of Technology in Soil and Water Engineering</string>
     //hindpal
     <string name="Profile7">Trained in Jojoba Plantation and farming from Jaipur, Hind Pal Singh is one of the rising horticulturist from the land of Rajasthan. He is doing Jojoba farming from 12 years in 2 hectares of area and is generating good profit from it. He has guided many farmers of his area towards jojoba farming and will keep doing it in the future also. He use mechanized and modern ways for farming and marketing and that has made him expert in his work</string>
+    <string name="Email7">hindpal@ymail.com</string>
+    <string name="Contact7">9876123477</string>
     <string name="AwardsandRecognition7">---</string>
     <string name="Expertise7">Jojoba Farming</string>
     <string name="Qualification7">Bachelors in Hotel Management</string>
     //mittali
     <string name="Profile8">Mittali Sharma is an M.Sc. in Botany from Punjab University and has done her research work in Candium effects on Wheat. As a young research fellow she has expanded her research area from crops to livestock as well, covering total of 500 + crop varieties and 200 + animal breeds. She had been continuously following her passion of research on Agri Industry and regularly serving the cause dear to her heart, farming. Experience of 5 years in Botany Research Work- Cadmium effect on Wheat</string>
+    <string name="Email8">mittalisharma5716@gmail.com</string>
+    <string name="Contact8">9993338765</string>
     <string name="AwardsandRecognition8">---</string>
     <string name="Expertise8">Agriculture Research</string>
     <string name="Qualification8">M.Sc. in Botany, B.Sc. in Bioinformatics</string>
     //Rajmohan
     <string name="Profile9">Rajmohan Singh Kaleka is recognized as a role model in the peasant society of Punjab for his eco-friendly and poison less agriculture practices. For putting his effort from last 20 years in the field of pesticides free farming he is affiliated with terms like progressive farmer, scientist, officer and agricultural expert. Other than serving the agriculture field he also serves Rajeev Gandhi National University of Law (RGNUL, Punjab) as Liaison Officer. He is the first farmer from Punjab who has received Krishi Karman award for Prime Minister – Narendra Modi. One of the reasons that lead him to this level of accomplishment in his life is the advisories given by him to the agricultural experts, Punjab Agriculture University and IARI</string>
+    <string name="Email9">kaleka246@gmail.com</string>
+    <string name="Contact9">8056778433</string>
     <string name="AwardsandRecognition9">Honoured by the Tutt Brothers at 4th Jat Expo Mela at Jalandhar on 09 November 2014. Honoured by Punjab Agriculture Department, Dist. Patiala, Young Farmer Rakhra, Director Agriculture Department Punjab and Joint Director IARI New Delhi Dr. K.V. Prabhu at Kissan Mela-cum-Farmer Training Camp on 27 September 2014. Honoured for saving soil, air and environment by the Tutt Brothers on 22 November 2014 at 5th Jat Expo Mela.Has been felicitated with State Award by the honourable Chief Minister of Punjab on 15th August 2015.Honoured by honourable Mr. Justice V. Gopal Gowda, Judge, and Supreme Court of India on 22 August 2015. Praised and honoured by the Governor of Punjab and Haryana, his Excellency Professor Kaptan Singh Solanki, at Kisan Mela Rakhra in collaboration with Punjab Agricultural Department on 16 September 2015. Honoured by Punjab Agriculture Department, Dist. Patiala, Young Farmer Rakhra, Chairman, Agriculture Scientist Recruitment Board New Delhi at Kisan Mela-cum-Farmer Training Camp on 12 March 2016. Has been selected to interact with Sh. Narinder ModiJi, Honourable Prime Minister of India and sensitize him over multiple issues pertaining to farming at the Inaugural Function of Krishi Unnati Mela-2016 on 19 March 2016. Honoured by the honourable Agriculture Minister of Punjab S. Tota Singh at Kisan Mela-cum- Farmer Training Camp Rakhra (Patiala) on 11.09.2016. Has been awarded with National Innovative Farmer Award-2016 by honourable Sh. Radha Mohan Singh, Union Agriculture Minister, Government of India, at National Agriculture fair 2016 KrishiUnnati, IARI New Delhi on 21 March 2016. Received Agriculture Minister Krishi Karman Award for Progressive Farmers-2017 and Prashasthi Patra by Honourable Sh. Narendra Modi Ji, Prime Minister of India on 17.03.2018 at New Delhi. Received Appreciation Letter from the Deputy Commissioner, Patiala and Chief Agriculture Officer, Patiala for ploughing the agriculture waste into the field on 11 April 2017.Honoured by the Honourable Smt. Preneet Kaur, Ex Minister of State in the Ministry of External Affairs on 17.07.2017 at fest organized by Markfed at Patiala. Honoured by the Honourable Rana K.P Singh, Speaker Punjab Vidhan Sabha, on 15.08.2017 at Patiala. Has been felicitated with District Award by the Honourable Speaker Punjab Vidhan Sabha on 15th August 2017. Honoured by Honourable Cabinet Minister, Punjab Shri Surjeet Singh Rakhra at Krishi Vigyan Kendar, Patiala. Appointed as Member of Agriculture Production Committee, District Patiala by Agriculture Department. Received Appreciation Letters from Honourable Agriculture Minister, Honourable Minister for Water Supply, Sanitation and Higher Education, Punjab, Chief Parliamentary Secretary (Agriculture) Punjab, Director of Agricultural Punjab, Joint Director (IARI) Delhi, and Deputy Commissioner Patiala. Honoured for chemical-free farming by Addl. Chief Secretary (Development) Punjab, Vice-Chancellor Punjab Agriculture University Ludhiana and Joint Director IARI New Delhi.</string>
     <string name="Expertise9">Rice, Wheat, Fruit and Vegetables</string>
     <string name="Qualification9">10+2</string>
     //Nishan
     <string name="Profile10">Nishandeep was doing private job as a teacher in Patti, Tarn Taran. But now he is doing organic farming for home. He grows crops are wheat, paddy, basmati, pea,moongi,mah,sarho, toriya, makki from last 7-8 years.</string>
+    <string name="Email10">nishansingh11@gmail.com</string>
+    <string name="Contact10">8800654432</string>
     <string name="AwardsandRecognition10">---</string>
     <string name="Expertise10">Crops(wheat, paddy, basmati, pea,moongi,mah,sarho, toriya, makki)</string>
     <string name="Qualification10">B.A. and ETT</string>
     //Daljeet
     <string name="Profile11">Mr. Daljeet Singh has over 35 years of experience as a he was an Assistant Vegetable Botanist/Res.Asstt. (4.5.1974 to 31.08.1986), Senior Vegetable Botanist (1.1.1995 to 31.5.2002) Vegetable Botanist (1.9.1986 to 31.12.1994) and Senior Olericultrist (since 1.6.2002) at PAU. He was nominated as Member of the Vegetable Section of International Society of Horticultural Science (International Horticultural Congress in Japan 1994). He has attended Seven International Conferences. He has released several vegetable varieties like Pea Hara bona. – 1980, improved variety of lettuce Punjab Lettuce -1 – 1992 and bitter gourd Punjab-14 etc. and also recommended many technologies in agriculture.</string>
+    <string name="Email11">daljeetsinghpau1950@gmail.com</string>
+    <string name="Contact11">9913459856</string>
     <string name="AwardsandRecognition11">Selected for the Award of financial assistance amongst the outstanding pool of scientists representing the finest institutions in the country for attending International Conferences abroad by the Govt. of India, Deptt. of Sci. and Tech. (DST); Council of Scientific and Industrial Research (CSIR); Indian Council of Agricultural Research (ICAR); World Vegetable Center (AVRDC) and Onion Association of Australia.Attended Seven International Conference at AVRDC, Taiwan, (1992), Univ. of Cuyo, Mendoza, Argentina (South America) in 1994 and Adelaide, Australia (1997) and New Delhi etc.Life Member of the Indian Society Vegetable Science, Varanasi.Nominated Member of the Chilli Exploration Team by the Project Directorate of Vegetable crops, Varanasi and Director NBPGR, New Delhi.Nominated Member of Vegetable Section (ISHS) by the Directors of International Society of Horticulture Science (One of the four members from India)Nominated Member of the Working Group of ISHS Water Supply and Irrigation (One of the three members from India).Member of the New York Academy of Sciences, New York.Member Indian Society of Plant Genetic Resources, New Delhi.Member Indian Society of Horticulture Science, New Delhi.Member Indian Society of Genetics and Plant Breeding, New Delhi.Life Member of Haryana Society of Horticulture Science, Hissar Participated in seminars/conferences/workshops.</string>
     <string name="Expertise11">Vegetable Breeder, Horticulture</string>
     <string name="Qualification11">Ph.D. (Olericulture), M.Sc. Horticulture) B.Sc. (Agriculture)</string>
     //Gurcharan
     <string name="Profile12">Gurcharan Singh Mann is a successful commercial apiculturist from Bathinda district of Punjab. After being trained in beekeeping under an advanced program of Punjab Agriculture University in 1990, he started with 7 bee boxes and today with the experience of 28 years he has expanded his beekeeping business to more than 1800 beehive boxes. By choosing the path of diversification today he has set up an empire- Mann Makhi Farm, where he is not only practicing beekeeping but also doing fish farming, nurturing sprawling orchards and cultivating vegetables. He has proved the right example of diversified farming by adopting different agri-allied activities and for his initiative he was also elected as the Best Farmer of the Year by Punjab Agriculture University. During his cumulative years he enhanced his knowledge by every possible way to achieve the expertise and skills for which he is popular today in the agriculture Society of Punjab. In future, he aims towards sharing his knowledge and experience with the budding farmers and help them grow.</string>
+    <string name="Email12">mannmakhifarm@gmail.com</string>
+    <string name="Contact12">9856238765</string>
     <string name="AwardsandRecognition12">Gurcharan Singh Mann is a successful commercial apiculturist from Bathinda district of Punjab. After being trained in beekeeping under an advanced program of Punjab Agriculture University in 1990, he started with 7 bee boxes and today with the experience of 28 years he has expanded his beekeeping business to more than 1800 beehive boxes. By choosing the path of diversification today he has set up an empire- Mann Makhi Farm, where he is not only practicing beekeeping but also doing fish farming, nurturing sprawling orchards and cultivating vegetables. He has proved the right example of diversified farming by adopting different agri-allied activities and for his initiative he was also elected as the Best Farmer of the Year by Punjab Agriculture University. During his cumulative years he enhanced his knowledge by every possible way to achieve the expertise and skills for which he is popular today in the agriculture Society of Punjab. In future, he aims towards sharing his knowledge and experience with the budding farmers and help them grow.</string>
     <string name="Expertise12">Beekeeping, Floriculture, Fishery</string>
     <string name="Qualification12">B.A.</string>
+
+    //crops
+    <string name="title_activity_bottom_nav">BottomNavActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_my_nav">MyNavActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Name</string>
+    <!--<string name="nav_header_subtitle">android.studio@android.com</string>-->
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="titleRegister">Register</string>
+    <string name="phoneHint">Mobile Number</string>
+    <string name="nameHint">Name</string>
+    <string name="btnNext">Next</string>
+    <string name="titleValidation">Enter Validation Code</string>
+    <string name="otphint">A OTP has been sent to you</string>
+    <string name="btnVerify">Verify</string>
+    <string name="namePunjabi">Punjabi</string>
+    <string name="namecrop">Crops</string>
+    <string name="nameweather">Weather</string>
+    <string name="namebuy">Buyerand Seller</string>
+    <string name="namevideo">Videos</string>
+    <string name="nameexpert">Expert</string>
+    <string name="open" translatable="false">Open</string>
+    <string name="close" translatable="false">Close</string>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    //Barley
+    <string name="barley" translatable="false">Barley is an annual plant, which means that it ends its life cycle in one year.The greatest quantity of produced barley is used as animal food.</string>
+    <string name="barleySoil" translatable="false">Barley can be grown on a wide range of soil types;ranging from heavy clays to light or sandy loam soils.It grows well on fertile, deep loam soils with a pH of 6
+to 7, 5. Soils with a pH lower than 6 may induce aluminium toxicity, leading to poor growth.</string>
+    <string name="barleyIrrigation" translatable="false">Irrigation scheduling must be done according to evaporation and as per growth stage, because barley is more sensitive to stress during jointing, booting and heading.</string>
+    <string name="barleyHarvest" translatable="false">Barley is ready for harvest in about 4 months after sowing.Barley can be harvested manually under small scale or combine harvesters can be used in large production scales</string>
+    //Maize
+    <string name="maize" translatable="false">Maize, also known as corn, is a cereal grain.Maize has become a staple food.</string>
+    <string name="maizeSoil" translatable="false">Maize grows in a wide range of soils, ranging from temperate podzols to the leached red soils of the tropics. But, the best suitable soil for maize is deep, rich soils of the sub-tropics, where there is abundant nitrogen.</string>
+    <string name="maizeIrrigation" translatable="false">Maize crop is sensitive to both moisture stress and excessive moisture, hence regulate irrigation according to the requirement.Ensure optimum moisture availability during the most critical phase (45 to 65 days after sowing); otherwise yield will be reduced by a considerable extent.</string>
+    <string name="maizeHarvest" translatable="false">The ideal time to harvest your maize silage crop is when the whole plant dry matter is between 32- 40%.Harvesting a crop too early will result in a yield loss and potentially poor fermentation.</string>
+    //Wheat
+    <string name="wheat" translatable="false">Wheat is the main cereal crop in India.Wheat is a grass widely cultivated for its seed, a cereal grain which is a worldwide staple food.</string>
+    <string name="wheatSoil" translatable="false">Wheat is grown in a variety of soils of India. Soils with a clay loam or loam texture, good structure and moderate water holding capacity are ideal for wheat cultivation.</string>
+    <string name="wheatIrrigation" translatable="false"> To harvest a good crop of wheat about 40 cm depth of water is used as evapotranspiration. There may be the need for 4-5 irrigations for wheat. In sandy loam soil 6-8 irrigations may be required whereas in heavy clay soil 3-4 irrigations are considered to be sufficient.</string>
+    <string name="wheatHarvest" translatable="false">Wheat is harvested in the summer months, after being harvested in the spring or winter. The moisture content of the wheat is the most critical factor for determining when your wheat is ready for harvest.Grain is ready to harvest between 20% and 14% moisture.</string>
+    //Rice
+    <string name="rice" translatable="false">Rice is the most important human food crop in the world, directly feeding more people than any other crop.</string>
+    <string name="riceSoil" translatable="false">Good amount of clay and organic matter are considered ideal for rice cultivation. It grows well in soils having a pH range between 5.5 and 6.5.</string>
+    <string name="riceIrrigation" translatable="false"> Rice is typically grown in bunded fields that are continuously flooded up to 7−10 days before harvest. Continuous flooding helps ensure sufficient water and control weeds. On average, it takes 1,432 liters of water to produce 1 kg of rice in an irrigated lowland production system.</string>
+    <string name="riceHarvest" translatable="false">Depending on the variety, a rice crop usually reaches maturity at around 105–150 days after crop establishment. Harvesting activities include cutting, stacking, handling, threshing, cleaning, and hauling.</string>
+    //Cotton
+    <string name="cotton" translatable="false">Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium</string>
+    <string name="cottonSoil" translatable="false">The cotton favorite, sandy loam, is silt and clay that contains some sand. Loamy sand contains some silt and clay.</string>
+    <string name="cottonIrrigation" translatable="false"> The total climatic water requirement of cotton is about 700-1000 mm, which depends on time of sowing and varies from genotype to genotype, region to region, soil to soil and scientific management to farmers management. </string>
+    <string name="cottonHarvest" translatable="false">Cotton is a kharif crop which requires 6 to 8 months to mature. Its time of sowing and harvesting differs in different parts of the country depending upon the climatic conditions.</string>
+    //Tomato
+    <string name="tomato" translatable="false">Rice is the most important human food crop in the world, directly feeding more people than any other crop.</string>
+    <string name="tomatoSoil" translatable="false">Sandy loam is best for early tomatoes. Heavy clay loam is ideal for late tomatoes. Amend the soil with aged compost before planting. Tomatoes prefer a soil with a pH between 6.0 and 7.0, just below neutral in acidity.</string>
+    <string name="tomatoIrrigation" translatable="false">The water requirement of outdoor grown tomatoes varies between 4000 - 6000 m³/ha. In greenhouses up to 10,000 m3/ha of water are required. 70% or more of the root system are in the upper 20 cm of the soil. Therefore, a drip system equipped with a fertigation device is advisable.</string>
+    <string name="tomatoHarvest" translatable="false">Tomatoes require 90-140 days to mature from seed; 60-90 days from transplanting, depending on the variety.</string>
+    //Cauliflower
+    <string name="cauliflower" translatable="false">Cauliflower is one of several vegetables in the species.It is an annual plant that reproduces by seed. Typically, only the head is eaten</string>
+    <string name="cauliflowerSoil" translatable="false">Cauliflower needs at least 6 hours of full sun each day; more is better. It also needs fertile, well-drained, moist soil with plenty of rich organic matter. The soil pH should be between 6.5 and 6.8 for optimum growth and to discourage clubroot disease.</string>
+    <string name="cauliflowerIrrigation" translatable="false">They need 2 inches of water each week; with normal rainfall, this usually requires supplemental watering. For best growth, side-dress the plants with a nitrogen fertilizer.</string>
+    <string name="cauliflowerHarvest" translatable="false">Harvest cauliflower when heads are 6 to 8 inches (15-20 cm) in diameter but still compact and smooth. The cauliflower head is a collection of flower buds; harvest the head while it is white and before yellow buds start to open. </string>
+
+    //Sugarcane
+    <string name="cane" translatable="false">Sugarcane, or sugar cane, are several species of tall perennial true grasses of the genus Saccharum.</string>
+    <string name="caneSoil" translatable="false">Humid soils from 100 to 150 cm deep with good drainage are most suitable.It grows well in deep, well-drained soils of medium fertility of sandy loam soil textures with a pH range from 6.0 to 7.7.</string>
+    <string name="caneIrrigation" translatable="false">Drip irrigation in sugarcane is a relatively new innovative technology that can conserve water, energy and increase profits.</string>
+    <string name="caneHarvest" translatable="false">Sugar cane grows for 12 to 16 months before being harvested between June and December each year. When harvested, the cane stands two to four metres high</string>
+
+    //Mustard
+    <string name="mustard" translatable="false">Mustard is a condiment made from the seeds of a mustard plant. The whole, ground, cracked, or bruised mustard seeds are mixed with water, vinegar, lemon juice, wine, or other liquids, salt, and often other flavorings and spices, to create a paste or sauce ranging in color from bright yellow to dark brown.</string>
+    <string name="musSoil" translatable="false"> Mustard can be raised on variable soil types with good drainage, but is best adapted to fertile, well-drained, loamy soils.</string>
+    <string name="musIrrigation" translatable="false">Mustard is a crop of 110-120 days duration. Mustard requires about 31-40 cms of water. The first irrigation should be given at the flowering stage which is about 30 days after sowing.</string>
+    <string name="musHarvest" translatable="false">For yellow and oriental mustard, swathing should occur when 75 per cent of the seeds have changed from green to yellow. For brown mustard, optimal swathing timing is when 60 per cent of seeds have changed from green to brownish or red.</string>
+    //Oats
+    <string name="oats" translatable="false">Oats are a whole-grain cereal, known scientifically as Avena sativa. They are a very good source of fiber, especially beta-glucan, and are high in vitamins, minerals and antioxidants. It is a cool season crop.</string>
+    <string name="oatsSoil" translatable="false">It grows best on well drained, fertile loamy soils.They are characterised by low amounts of organic matter and a poor ability to retain water and nutrients.</string>
+    <string name="oatsIrrigation" translatable="false">Selected well-drained loamy soil with good irrigation prospect for growing of oats. Water logged areas should be avoided.</string>
+    <string name="oatsHarvest" translatable="false">The oat crop mature within 120 days after sowing. For fodder purpose two cuttings are taken at 40 days interval.</string>
+    //Potato
+    <string name="potato" translatable="false">The potato is a starchy, tuberous crop from the perennial nightshade Solanum tuberosum. In many contexts, potato refers to the edible tuber, but it can also refer to the plant itself.</string>
+    <string name="potatoSoil" translatable="false">Soils, which are naturally loose, offer least resistance to the enlargement of the tubers is preferred. Loamy and sandy loam soils, rich in organic matter with good drainage and aeration are most suitable for cultivation of potato crop.</string>
+    <string name="potatoIrrigation" translatable="false"> Potatoes are shallow-rooted plants with finely branched root systems, and are therefore sensitive to even small deficiencies of water in the root zone.</string>
+    <string name="potatoHarvest" translatable="false"> For winter storage, it is best to let the plant and the weather tell you when to harvest potatoes. Wait until the tops of the vines have died before you begin harvesting.</string>
+
+    //Onion
+    <string name="onion" translatable="false">The onion, also known as the bulb onion or common onion, is a vegetable that is the most widely cultivated species of the genus Allium. Its close relatives include the garlic, leek, chive, and Chinese onion.</string>
+    <string name="onionSoil" translatable="false">Soil requirements. Onion crops thrive in a variety of soils. The soils considered ideal are those of medium and fine texture, sandy loam, warm, with good drainage and rich in organic matter.</string>
+    <string name="onionIrrigation" translatable="false"> Onion is shallow-rooted crop. Its root system is normally restricted to top 3 cm and roots penetrate seldom deeper (15 cm). The water requirement of its crop at initial growth is less.</string>
+    <string name="onionHarvest" translatable="false">Pull any onions that send up flower stalks; this means that the onions have stopped growing. When onions start to mature, the tops (foliage) become yellow and begin to fall over. Loosen the soil around the bulbs to encourage drying. When tops are brown, pull the onions.</string>
+    <string name="title_activity_my_navigation">MyNavigation</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    //Advisory
+    <string name="Heading1">Expert advice on pot plants in month of March</string>
+    <string name="Date1">20-03-2019</string>
+    <string name="UnderHeading1">Punjab Agricultural University, Ludhiana Advisory</string>
+    <string name="Info1">The information about pot plants is given below
+
+-Best time for the propagation, manuring and repotting of shade loving and other pot plants like Dracaena, Pedilanthus, Alocasia, Chlorophytum, Ferns, Rhoeo etc.
+-The plants which had been growing in a pot for more than 3-4 years should be taken out from the pot, if required divided/multiplied into two or more than two parts of the each (depending upon their size and health) and then replant the same in pots by using fresh and rich potting mixture.
+-This will enhance their physical look.
+</string>
+
+    <string name="Heading2">Special Advisories for Horticulture operations</string>
+    <string name="Date2">19-03-2019</string>
+    <string name="UnderHeading2">Punjab Agricultural University, Ludhiana Advisory</string>
+    <string name="Info2">The information about Horticulture operations is given below:
+    1. The evergreen fruit plants like citrus, mango, litchi, guava, loquat and ber may be planted in the field.
+
+    2. The young as well as the old trees should be irrigated regularly and more frequently as they put forth new growth/ flushes. The young plants should be provided with stakes for upright and straight growth. To litchi trees, apply irrigation after the fruit set and continue watering at 3 weeks intervals. Tograpevines, one irrigation is needed during the first week of March.
+
+    3. The lower portion of the exposed trunks should be white-washed with a thick lime solution towards the end of this month.
+
+    4. For rejuvenation of senile guava trees, head back such trees at 1.5m from the ground level leaving 2-3 primary scaffolds and apply Bordeaux Paste on the cut ends.
+
+    5. For checking foot rot in citrus, drench the soil around basin of the tree and free trunk with Sodium hypochlorite 5% @ 50ml tree in 10 litres of water.
+
+    6. Ethephon 400 ppm at Colour break stage (250 ml in 300 litres of water in first week of March) advances ripening by two weeks in Umran and produces attractive, uniform, better quality and deep golden yellow with chocolate tinge coloured fruit. The peak season for harvesting of ber in Punjab is mid-March to mid-April.
+
+    7. To check the insect pests of citrus especially psylla and aphids, spray 200 ml Crocodile/Confidor 17.8 SL or 160g Actara/Dotara 25 WG (thiamethoxam) 500 litres of water on spring flush. For the control of withertip or die-back in citrus, spray Bordeaux mixture 2:2:250 before the flower opening.
+
+    </string>
+    <string name="Heading3">CONSUMER AWARENESS NOTICE"</string>
+    <string name="Date3">14-03-2019</string>
+    <string name="UnderHeading3">PGS INDIA Secretariat Advisory</string>
+    <string name="info3">While purchasing organic food materia, pleaseverify these LOGO on any organic food pack. The PGS-INDIA ORGANIC and Jaivik Bharat logo on organic food pack confirms that the product is produced in assordance with the Standards of PGS India.
+
+For futher details contact:
+
+Toll free Number: 1800-180-3049
+
+http://ncof.dacnet.nic.in
+
+http://pgsindia-ncof.gov.in</string>
+    <string name="Heading4">Expert advice for permanent plants</string>
+    <string name="Date4">14-03-2019</string>
+    <string name="UnderHeading4">Expert advice for permanent plants</string>
+    <string name="info4">During this month, all types of permanent ornamental plants including trees, shrubs and creepers can be planted. For their proper growth and development proper size and properly filled up tree pits/should be prepared. The selected saplings should be healthy and disease free.
+
+    </string>
+
+    <string name="Heading5">Expert advice for Lawns in the month of March</string>
+    <string name="Date5">14-03-2019</string>
+    <string name="UnderHeading5">Expert advice for Lawns in the month of March</string>
+    <string name="info5">The information for Lawns in the month of March is given below
+
+The new lawn can be developed during this month, provided assure irrigation system is available.
+The grass roots/suckers of some selected varieties e.g. Calcutta grass, Korean or selection No.1, can be dibbled in the well prepared soil.
+Irrigation with the help of sprinkler can be helpful for better establishment of lawn.
+</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //weather
+    <string name="search_title">Search</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="min_temp">%1$s\u2103</string>
+    <string name="max_temp">%1$s\u2103</string>
+    <string name="humidity">%1$s%%</string>
+    <string name="pressure">%1$s hpa</string>
+    <string name="sunrise">%1$s AM</string>
+    <string name="sunset">%1$s PM</string>
+    <string name="network_error_string">You are currently offline. Please check your connectivity settings and try again.</string>
+    <string name="generic_error_string">The application has encountered an unknown error. Please try again.</string>
+    <string name="temp_string">%1$s\u2103</string>
+    <string name="last_updated_time">Last Updated: %1$s</string>
+    <string name="title_activity_home">HomeActivity</string>
 
 
 </resources>

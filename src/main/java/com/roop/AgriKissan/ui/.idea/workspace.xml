@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f77f1b0-c9a8-4f90-9811-29c41e33b9c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../res/drawable-v24/ginger1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../res/drawable-v24/potato1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../res/drawable-v24/sugarcane1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SplashActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SplashActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllBuyersActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/AllBuyersActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllSellersActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/AllSellersActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sellers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sellers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SellersAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/SellersAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SellersRecyclerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/SellersRecyclerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/activity_daljeet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/activity_daljeet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/activity_gurcharan.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/activity_gurcharan.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/activity_gurpreet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/activity_gurpreet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/activity_harvinder.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/activity_harvinder.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/activity_hindpal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/activity_hindpal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/activity_mittali.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/activity_mittali.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/activity_navdeep.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/activity_navdeep.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/activity_navroop.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/activity_navroop.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/activity_nishan.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/activity_nishan.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/activity_pavitar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/activity_pavitar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/activity_rajmohan.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/activity_rajmohan.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/activity_ramandeep.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/activity_ramandeep.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/list_buyer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/list_buyer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/layout/list_seller.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/layout/list_seller.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../res/values/strings.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f77f1b0-c9a8-4f90-9811-29c41e33b9c0" name="Default Changelist" comment="" />
+      <created>1557298863602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557298863602</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3296131" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+    </layout>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

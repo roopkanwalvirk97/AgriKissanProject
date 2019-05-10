@@ -33,6 +33,45 @@
             android:text="@string/Profile2"
             android:textColor="@color/colorBlack"
             android:padding="10dp"/>
+        <TextView
+            android:id="@+id/textViewEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Email Address"
+            android:background="@color/colorYellow"
+            android:textSize="20dp"
+            android:textColor="@color/colorBlack"
+            android:padding="10dp"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:id="@+id/textViewinfoEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Email2"
+            android:textColor="@color/colorBlack"
+            android:padding="10dp"/>
+        <TextView
+            android:id="@+id/textViewContact"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Contact"
+            android:background="@color/colorYellow"
+            android:textSize="20dp"
+            android:textColor="@color/colorBlack"
+            android:padding="10dp"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:id="@+id/textViewinfoContact"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Contact2"
+            android:textColor="@color/colorBlack"
+            android:padding="10dp"/>
+
 
         <TextView
             android:id="@+id/textViewAwards"
